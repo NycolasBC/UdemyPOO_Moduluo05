@@ -1,0 +1,8 @@
+D:\Uniaraxa\POO_CSharp\Modulo5\bin\Debug\Modulo5.exe.config
+D:\Uniaraxa\POO_CSharp\Modulo5\bin\Debug\Modulo5.exe
+D:\Uniaraxa\POO_CSharp\Modulo5\bin\Debug\Modulo5.pdb
+D:\Uniaraxa\POO_CSharp\Modulo5\obj\Debug\Modulo5.csproj.AssemblyReference.cache
+D:\Uniaraxa\POO_CSharp\Modulo5\obj\Debug\Modulo5.csproj.SuggestedBindingRedirects.cache
+D:\Uniaraxa\POO_CSharp\Modulo5\obj\Debug\Modulo5.csproj.CoreCompileInputs.cache
+D:\Uniaraxa\POO_CSharp\Modulo5\obj\Debug\Modulo5.exe
+D:\Uniaraxa\POO_CSharp\Modulo5\obj\Debug\Modulo5.pdb
